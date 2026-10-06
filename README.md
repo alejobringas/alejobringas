@@ -11,5 +11,8 @@ Trabajo con **React, Next.js, TypeScript y JavaScript**; **Electron, Python, Fas
 - **[Estática Radio](https://estaticaradio.vercel.app/)** — Sitio, reproductor y panel editorial. Next.js, Supabase y AzuraCast.
 - **[AURENNA](https://aurenna-beta.vercel.app/)** — Tienda con catálogo, carrito y flujos de compra. Next.js, TypeScript y Supabase. Demo pública; pagos y cuentas pendientes de activación.
 - **[ARCH Studio](https://archstudio.com.ar/)** — Sitio del estudio, portfolio, cotizador y administración. Next.js, TypeScript y Supabase.
+- **[ARCH AI](https://github.com/alejobringas/arch-ai)** — Asistente de escritorio con modelos locales, documentos y voz. Electron, React, TypeScript, Ollama y SQLite. Prototipo para Windows.
+- **[ARCH Console](https://github.com/alejobringas/arch-console)** — Interfaz para juegos de PC y host con WebSocket. Electron, React y TypeScript. Prototipo; streaming entre dispositivos pendiente de validación.
+- **[ARCH Void](https://github.com/alejobringas/arch-void)** — Experimento WebGL con una membrana 3D controlada por gestos. TypeScript, Three.js y MediaPipe.
 
 [Portfolio](https://alejobringasdev.netlify.app/) · [Código del portfolio](https://github.com/alejobringas/PortfolioAlejo.) · [Contacto](mailto:alejobringas1@gmail.com)
